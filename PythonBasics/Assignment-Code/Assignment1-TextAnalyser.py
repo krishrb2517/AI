@@ -8,4 +8,3 @@ if args.path:
     print(args.path)
 
 path = args.path
-
